@@ -13,8 +13,8 @@ When this script will run, it will read the test images from './test/low/' and p
 ## ROC/AUC Curves
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/843794aa-0150-45b7-866f-3ac5ab482f26" width="450" />
-  <img src="https://github.com/user-attachments/assets/d3071abd-20ba-43ef-9f58-3d8fe84298bc" width="442" /> 
+  <img src="https://github.com/user-attachments/assets/843794aa-0150-45b7-866f-3ac5ab482f26" width="300" />
+  <img src="https://github.com/user-attachments/assets/d3071abd-20ba-43ef-9f58-3d8fe84298bc" width="300" /> 
 </p>
 
 <p float="left">
@@ -25,9 +25,9 @@ When this script will run, it will read the test images from './test/low/' and p
 
 ## Buy/Sell Curve - Amazon Stock
 
-<img src="https://github.com/user-attachments/assets/8d7528ba-cb16-49e2-8463-4b6153f23c8a" alt="Image Description" width="1000">
+<img src="https://github.com/user-attachments/assets/8d7528ba-cb16-49e2-8463-4b6153f23c8a" alt="Image Description" width="897">
 
 
 ## Portfolio Curve
 
-<img src="https://github.com/user-attachments/assets/9527c54d-dfbe-444f-a70b-76e659ffdd16" alt="Image Description" width="1000">
+<img src="https://github.com/user-attachments/assets/9527c54d-dfbe-444f-a70b-76e659ffdd16" alt="Image Description" width="897">
