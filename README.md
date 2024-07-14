@@ -1,4 +1,4 @@
-# Stock_sentiment_analysis
+![image](https://github.com/user-attachments/assets/696b1599-a29f-4cea-b89d-1b0699080a10)# Stock_sentiment_analysis
 
 ## How to Use 
 ### Clone the repository:
@@ -18,8 +18,7 @@ When this script will run, it will read the test images from './test/low/' and p
 ![image](https://github.com/user-attachments/assets/9124b610-c10f-48d2-9a36-5c1d5890a9d3)       ![image](https://github.com/user-attachments/assets/4940d71e-d8fc-4146-986d-bd4fc800ee40)
 
 
-Amazon Stock 
-## Buy/Sell Curve
+## Buy/Sell Curve - Amazon Stock
 
 ![Screenshot 2024-06-20 164709](https://github.com/user-attachments/assets/8d7528ba-cb16-49e2-8463-4b6153f23c8a)
 
