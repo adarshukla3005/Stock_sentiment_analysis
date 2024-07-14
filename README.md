@@ -25,9 +25,9 @@ When this script will run, it will read the test images from './test/low/' and p
 
 ## Buy/Sell Curve - Amazon Stock
 
-<img src="https://github.com/user-attachments/assets/8d7528ba-cb16-49e2-8463-4b6153f23c8a" alt="Image Description" width="897">
+<img src="https://github.com/user-attachments/assets/8d7528ba-cb16-49e2-8463-4b6153f23c8a" alt="Image Description" width="1000">
 
 
 ## Portfolio Curve
 
-<img src="https://github.com/user-attachments/assets/9527c54d-dfbe-444f-a70b-76e659ffdd16" alt="Image Description" width="897">
+<img src="https://github.com/user-attachments/assets/9527c54d-dfbe-444f-a70b-76e659ffdd16" alt="Image Description" width="1000">
