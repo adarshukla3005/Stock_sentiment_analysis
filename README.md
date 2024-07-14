@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/696b1599-a29f-4cea-b89d-1b0699080a10)# Stock_sentiment_analysis
+# Stock_sentiment_analysis
 
 ## How to Use 
 ### Clone the repository:
@@ -12,16 +12,22 @@ When this script will run, it will read the test images from './test/low/' and p
 
 ## ROC/AUC Curves
 
-![image](https://github.com/user-attachments/assets/843794aa-0150-45b7-866f-3ac5ab482f26)       ![image](https://github.com/user-attachments/assets/d3071abd-20ba-43ef-9f58-3d8fe84298bc)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/843794aa-0150-45b7-866f-3ac5ab482f26" width="450" />
+  <img src="https://github.com/user-attachments/assets/d3071abd-20ba-43ef-9f58-3d8fe84298bc" width="442" /> 
+</p>
 
-
-![image](https://github.com/user-attachments/assets/9124b610-c10f-48d2-9a36-5c1d5890a9d3)       ![image](https://github.com/user-attachments/assets/4940d71e-d8fc-4146-986d-bd4fc800ee40)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/9124b610-c10f-48d2-9a36-5c1d5890a9d3" width="450" />
+  <img src="https://github.com/user-attachments/assets/4940d71e-d8fc-4146-986d-bd4fc800ee40" width="442" /> 
+</p>
 
 
 ## Buy/Sell Curve - Amazon Stock
 
-![Screenshot 2024-06-20 164709](https://github.com/user-attachments/assets/8d7528ba-cb16-49e2-8463-4b6153f23c8a)
+<img src="https://github.com/user-attachments/assets/8d7528ba-cb16-49e2-8463-4b6153f23c8a" alt="Image Description" width="897">
+
 
 ## Portfolio Curve
 
-![Screenshot 2024-06-20 164737](https://github.com/user-attachments/assets/9527c54d-dfbe-444f-a70b-76e659ffdd16)
+<img src="https://github.com/user-attachments/assets/9527c54d-dfbe-444f-a70b-76e659ffdd16" alt="Image Description" width="897">
